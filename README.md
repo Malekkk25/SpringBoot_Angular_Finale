@@ -1,0 +1,2 @@
+#  Flight Management Project
+Final project for my second year in college, combining Spring Boot and Angular. The project includes a comprehensive CRUD system for managing flights and their categories, along with airports. The Angular frontend features dynamic filtering using key-up events. Additionally, the Spring Boot microservice for users is implemented with a robust security layer for the overall project.
